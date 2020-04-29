@@ -1,6 +1,6 @@
 ## VolunHero
 ## Project Description
-VolunHero is all about making volunteering a fun social experience. The Web App platform connects volunteers and coronavirus vulnerable population. Volunteers will be able to choose a user’s list, do the shopping and then deliver the groceries right to any local senior’s door all for free. Offering the service as a preventative measure with the goal of helping people stay home and stay healthy.
+VolunHero is all about making volunteering a fun social experience. The Web App platform connects volunteers and with people who are at risk in the community to assist with tasks. Volunteers will be able to choose a user’s task, and complete it for them. Offering the service as a preventative measure with the goal of helping people stay home and stay healthy.
 
 ## Setup
 
