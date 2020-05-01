@@ -28,7 +28,7 @@ npm start
 1.0.0
 
 ## Back-end API-server
-Express is the basis for the VolunHero API server application (https://github.com/martaluiz/VolunHero---FinalBackEnd). Data is persisted by the API server using a PostgreSQL database.
+Express is the basis for the VolunHero API server application (https://github.com/jasminesingh0509/VolunHero---FinalBackEnd). Data is persisted by the API server using a PostgreSQL database.
 Both servers run concurrently.
 
 ## Authors
